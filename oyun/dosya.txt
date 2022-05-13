@@ -1,0 +1,309 @@
+A hedef belirledi.
+A  1 sag seklinde hamle yapti.
+A hedefine ulaþtý.
+A hedef belirledi.
+A  1 sag seklinde hamle yapti.
+A hedefine ulaþtý.
+A hedef belirledi.
+A  1 asagi seklinde hamle yapti.
+A hedefine ulaþtý.
+A hedef belirledi.
+A  1 asagi seklinde hamle yapti.
+A hedefine ulaþtý.
+A hedef belirledi.
+A  1 asagi 1 sol seklinde hamle yapti.
+A hedefine ulaþtý.
+A hedef belirledi.
+A  2 asagi 1 sag seklinde hamle yapti.
+A  1 sag seklinde hamle yapti.
+A hedefine ulaþtý.
+A hedef belirledi.
+A  2 asagi seklinde hamle yapti.
+A hedefine ulaþtý.
+A hedef belirledi.
+A  1 sol seklinde hamle yapti.
+A hedefine ulaþtý.
+A hedef belirledi.
+A  1 yukari 2 sag seklinde hamle yapti.
+A  1 sag seklinde hamle yapti.
+A hedefine ulaþtý.
+A hedef belirledi.
+A  1 sag seklinde hamle yapti.
+A hedefine ulaþtý.
+A hedef belirledi.
+A  1 yukari seklinde hamle yapti.
+A hedefine ulaþtý.
+A hedef belirledi.
+A  1 asagi 1 sag seklinde hamle yapti.
+A hedefine ulaþtý.
+A hedef belirledi.
+A  3 yukari seklinde hamle yapti.
+A  1 sag seklinde hamle yapti.
+A hedefine ulaþtý.
+A hedef belirledi.
+A  2 sag seklinde hamle yapti.
+A hedefine ulaþtý.
+A hedef belirledi.
+A  1 yukari seklinde hamle yapti.
+A hedefine ulaþtý.
+A hedef belirledi.
+A  1 asagi 2 sag seklinde hamle yapti.
+A hedefine ulaþtý.
+A hedef belirledi.
+A  1 asagi 2 sol seklinde hamle yapti.
+A  1 sol seklinde hamle yapti.
+A hedefine ulaþtý.
+A hedef belirledi.
+A  3 asagi seklinde hamle yapti.
+A  2 sag seklinde hamle yapti.
+A hedefine ulaþtý.
+A hedef belirledi.
+A  1 asagi seklinde hamle yapti.
+A hedefine ulaþtý.
+A hedef belirledi.
+A  1 asagi 1 sag seklinde hamle yapti.
+A hedefine ulaþtý.
+A hedef belirledi.
+A  2 asagi 1 sag seklinde hamle yapti.
+A hedefine ulaþtý.
+A hedef belirledi.
+A  3 asagi seklinde hamle yapti.
+A  1 asagi 2 sag seklinde hamle yapti.
+A hedefine ulaþtý.
+A hedef belirledi.
+A  1 asagi seklinde hamle yapti.
+A hedefine ulaþtý.
+A hedef belirledi.
+A  1 asagi 2 sol seklinde hamle yapti.
+A  3 sol seklinde hamle yapti.
+A hedefine ulaþtý.
+A hedef belirledi.
+A  1 yukari 2 sol seklinde hamle yapti.
+A hedefine ulaþtý.
+A hedef belirledi.
+A  2 sol seklinde hamle yapti.
+A hedefine ulaþtý.
+A hedef belirledi.
+A  1 asagi 2 sol seklinde hamle yapti.
+A  2 sol seklinde hamle yapti.
+A hedefine ulaþtý.
+A hedef belirledi.
+A  2 asagi 1 sol seklinde hamle yapti.
+A hedefine ulaþtý.
+A hedef belirledi.
+A  3 yukari seklinde hamle yapti.
+A  3 yukari seklinde hamle yapti.
+A  2 yukari 1 sag seklinde hamle yapti.
+A hedefine ulaþtý.
+A hedef belirledi.
+A  2 yukari 1 sol seklinde hamle yapti.
+
+B hedef belirledi.
+B  1 asagi 2 sol seklinde hamle yapti.
+B hedefine ulaþtý.
+B hedef belirledi.
+B  2 asagi 1 sol seklinde hamle yapti.
+B hedefine ulaþtý.
+B hedef belirledi.
+B  3 sol seklinde hamle yapti.
+B hedefine ulaþtý.
+B hedef belirledi.
+B  1 asagi 1 sol seklinde hamle yapti.
+B hedefine ulaþtý.
+B hedef belirledi.
+B  3 sag seklinde hamle yapti.
+B hedefine ulaþtý.
+B hedef belirledi.
+B  3 asagi seklinde hamle yapti.
+B  3 sol seklinde hamle yapti.
+B hedefine ulaþtý.
+B hedef belirledi.
+B  1 asagi 2 sol seklinde hamle yapti.
+B hedefine ulaþtý.
+B hedef belirledi.
+B  1 sol seklinde hamle yapti.
+B hedefine ulaþtý.
+B hedef belirledi.
+B  2 asagi 1 sol seklinde hamle yapti.
+B hedef belirledi.
+B  2 sag seklinde hamle yapti.
+B hedefine ulaþtý.
+B hedef belirledi.
+B  3 asagi seklinde hamle yapti.
+B hedef belirledi.
+B  1 asagi 1 sag seklinde hamle yapti.
+B hedefine ulaþtý.
+B hedef belirledi.
+B  1 sag seklinde hamle yapti.
+B hedefine ulaþtý.
+B hedef belirledi.
+B  3 yukari seklinde hamle yapti.
+B  2 yukari 1 sag seklinde hamle yapti.
+B hedefine ulaþtý.
+B hedef belirledi.
+B  3 yukari seklinde hamle yapti.
+B  1 yukari 1 sag seklinde hamle yapti.
+B hedefine ulaþtý.
+B hedef belirledi.
+B  3 yukari seklinde hamle yapti.
+B hedefine ulaþtý.
+B hedef belirledi.
+B  2 asagi 1 sag seklinde hamle yapti.
+B  2 sag seklinde hamle yapti.
+B hedefine ulaþtý.
+B hedef belirledi.
+B  2 asagi 1 sag seklinde hamle yapti.
+B  1 sag seklinde hamle yapti.
+B hedefine ulaþtý.
+B hedef belirledi.
+B  3 asagi seklinde hamle yapti.
+B  3 asagi seklinde hamle yapti.
+B hedefine ulaþtý.
+B hedef belirledi.
+B  3 asagi seklinde hamle yapti.
+B  3 sol seklinde hamle yapti.
+B hedef belirledi.
+B  2 asagi 1 sol seklinde hamle yapti.
+B  1 sol seklinde hamle yapti.
+B hedefine ulaþtý.
+B hedef belirledi.
+B  2 asagi 1 sol seklinde hamle yapti.
+B hedef belirledi.
+B  3 yukari seklinde hamle yapti.
+B hedef belirledi.
+B  1 asagi 2 sol seklinde hamle yapti.
+B  3 sol seklinde hamle yapti.
+B  3 sol seklinde hamle yapti.
+B hedef belirledi.
+B  2 asagi 1 sol seklinde hamle yapti.
+B hedef belirledi.
+B  3 yukari seklinde hamle yapti.
+B  3 yukari seklinde hamle yapti.
+B  2 yukari 1 sol seklinde hamle yapti.
+B hedef belirledi.
+B  2 yukari 1 sol seklinde hamle yapti.
+B  2 sol seklinde hamle yapti.
+B hedefine ulaþtý.
+
+C hedef belirledi.
+C  2 yukari seklinde hamle yapti.
+C hedefine ulaþtý.
+C hedef belirledi.
+C  3 yukari seklinde hamle yapti.
+C  1 yukari 2 sag seklinde hamle yapti.
+C hedefine ulaþtý.
+C hedef belirledi.
+C  3 yukari seklinde hamle yapti.
+C  3 yukari seklinde hamle yapti.
+C  2 sag seklinde hamle yapti.
+C hedefine ulaþtý.
+C hedef belirledi.
+C  1 asagi seklinde hamle yapti.
+C hedefine ulaþtý.
+C hedef belirledi.
+C  1 asagi 2 sag seklinde hamle yapti.
+C hedefine ulaþtý.
+C hedef belirledi.
+C  1 sag seklinde hamle yapti.
+C hedefine ulaþtý.
+C hedef belirledi.
+C  1 asagi 1 sol seklinde hamle yapti.
+C hedefine ulaþtý.
+C hedef belirledi.
+C  3 asagi seklinde hamle yapti.
+C  3 sag seklinde hamle yapti.
+C hedefine ulaþtý.
+C hedef belirledi.
+C  2 asagi 1 sag seklinde hamle yapti.
+C hedefine ulaþtý.
+C hedef belirledi.
+C  2 asagi 1 sol seklinde hamle yapti.
+C  2 sol seklinde hamle yapti.
+C hedefine ulaþtý.
+C hedef belirledi.
+C  2 yukari 1 sol seklinde hamle yapti.
+C  2 sol seklinde hamle yapti.
+C hedefine ulaþtý.
+C hedef belirledi.
+C  1 yukari 2 sag seklinde hamle yapti.
+C hedefine ulaþtý.
+C hedef belirledi.
+C  1 yukari 1 sag seklinde hamle yapti.
+C hedefine ulaþtý.
+C hedef belirledi.
+C  3 yukari seklinde hamle yapti.
+C  2 sol seklinde hamle yapti.
+C hedefine ulaþtý.
+C hedef belirledi.
+C  2 sag seklinde hamle yapti.
+C hedefine ulaþtý.
+C hedef belirledi.
+C  1 yukari 1 sag seklinde hamle yapti.
+C hedefine ulaþtý.
+C hedef belirledi.
+C  2 sag seklinde hamle yapti.
+C hedefine ulaþtý.
+C hedef belirledi.
+C  1 asagi 2 sol seklinde hamle yapti.
+C hedefine ulaþtý.
+C hedef belirledi.
+C  1 sag seklinde hamle yapti.
+C hedefine ulaþtý.
+C hedef belirledi.
+C  3 asagi seklinde hamle yapti.
+C  3 asagi seklinde hamle yapti.
+C  1 asagi 2 sag seklinde hamle yapti.
+C hedefine ulaþtý.
+C hedef belirledi.
+C  2 asagi 1 sol seklinde hamle yapti.
+C hedefine ulaþtý.
+C hedef belirledi.
+C  3 yukari seklinde hamle yapti.
+C  1 sol seklinde hamle yapti.
+
+D hedef belirledi.
+D  3 yukari seklinde hamle yapti.
+D  3 yukari seklinde hamle yapti.
+D  2 sol seklinde hamle yapti.
+D hedefine ulaþtý.
+D hedef belirledi.
+D  1 sag seklinde hamle yapti.
+D hedefine ulaþtý.
+D hedef belirledi.
+D  3 yukari seklinde hamle yapti.
+D hedefine ulaþtý.
+D hedef belirledi.
+D  2 yukari 1 sag seklinde hamle yapti.
+D hedefine ulaþtý.
+D hedef belirledi.
+D  1 yukari seklinde hamle yapti.
+D hedefine ulaþtý.
+D hedef belirledi.
+D  3 yukari seklinde hamle yapti.
+D  2 yukari 1 sol seklinde hamle yapti.
+D  1 sol seklinde hamle yapti.
+D hedefine ulaþtý.
+D hedef belirledi.
+D  2 yukari 1 sol seklinde hamle yapti.
+D  3 sol seklinde hamle yapti.
+D  1 sol seklinde hamle yapti.
+D hedefine ulaþtý.
+D hedef belirledi.
+D  3 sag seklinde hamle yapti.
+D hedefine ulaþtý.
+D hedef belirledi.
+D  2 asagi 1 sol seklinde hamle yapti.
+D  3 sol seklinde hamle yapti.
+D  3 sol seklinde hamle yapti.
+D  2 sol seklinde hamle yapti.
+D hedefine ulaþtý.
+D hedef belirledi.
+D  1 yukari 1 sol seklinde hamle yapti.
+D hedefine ulaþtý.
+D hedef belirledi.
+D  1 yukari seklinde hamle yapti.
+D hedefine ulaþtý.
+D hedef belirledi.
+D  3 asagi seklinde hamle yapti.
+D  3 asagi seklinde hamle yapti.
+D  1 asagi 2 sag seklinde hamle yapti.
